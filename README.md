@@ -6,10 +6,10 @@
 
 # ⭐ Hi! I'm GilLog 🚀
 
-<br>
+<p>
 
 ## 🛠 What I Can Do! ⚙ 
-<br>
+</p>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
 
 ## 
