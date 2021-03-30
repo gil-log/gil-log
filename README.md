@@ -1,7 +1,7 @@
 <div align=center>
 
 
-![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=swgil007&show_icons=true)
+[![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=swgil007&show_icons=true)](https://github.com/swgil007?tab=repositories)
 
 
 ### Hi there 👋
