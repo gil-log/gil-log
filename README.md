@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=Php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-239120?style=plastic&logo=CSharp#&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-239120?style=plastic&logo=CSharp&logoColor=white"/></a>
 
 ## 
 
