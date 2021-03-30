@@ -8,7 +8,7 @@
 
 <br>
 
-//![](https://img.shields.io/badge/-Stack-red)
+## 🛠 What I Can Do! ⚙ 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
 
