@@ -14,7 +14,10 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=Php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C\#-239120?style=plastic&logo=CCC&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 
 ## 
 
