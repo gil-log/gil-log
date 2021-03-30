@@ -11,9 +11,9 @@
 ## 🛠 What I Can Do! ⚙ 
 
 
-<img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=Php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 <br>
 <br>
