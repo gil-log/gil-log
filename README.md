@@ -8,13 +8,9 @@
 
 <a href="https://velog.io/@gillog"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gillog"/></a>&nbsp;
 <a href="mailto:swgil007@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=naver&logoColor=white&link=swgil007@naver.com"/></a>
-
-
 <br>
 
 ## 🛠 What I Can Do! ⚙ 
-
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=Php&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
