@@ -16,15 +16,16 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=black"/> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
 <br>
+
 ## 💻 What I Can Use! 🧰
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/> &nbsp;
@@ -35,8 +36,9 @@
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
 </div>
+
 
 
 <!--
