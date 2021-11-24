@@ -35,7 +35,9 @@
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Dimension-F05032?style=flat&logo=Dimension&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/> &nbsp;
 </div>
 
 
