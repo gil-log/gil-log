@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Dimension-F05032?style=flat&logo=Node-RED&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/> &nbsp;
-</div>
+
 
 ## 💻 What I Can Use! 🧰
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white"/> &nbsp;
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white"/>
 <br>
-
+</div>
 
 
 <!--
