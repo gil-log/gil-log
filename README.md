@@ -1,7 +1,7 @@
 <div align=center>
 
 [![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=swgil007&show_icons=true&theme=dracula)](https://github.com/swgil007?tab=repositories)
-&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swgil007&layout=compact&theme=dracula)](https://github.com/swgil007?tab=repositories)
+<-- &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swgil007&layout=compact&theme=dracula)](https://github.com/swgil007?tab=repositories) -->
 
 # 🚀 Hi! I'm GilLog ⭐
 
