@@ -1,9 +1,9 @@
 <div align=center>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swgil007&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gil-log&theme=dark)](https://git.io/streak-stats)
   
-[![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=swgil007&show_icons=true&theme=dracula)](https://github.com/swgil007?tab=repositories)
-<!-- &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swgil007&layout=compact&theme=dracula)](https://github.com/swgil007?tab=repositories) -->
+[![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=gil-log&show_icons=true&theme=dracula)](https://github.com/gil-log?tab=repositories)
+<!-- &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gil-log&layout=compact&theme=dracula)](https://github.com/gil-log?tab=repositories) -->
 
 # 🚀 Hi! I'm GilLog ⭐
 
