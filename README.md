@@ -6,7 +6,7 @@
   
   
   
-<a href="https://opgc.me/#/users/gil-log" target="_blank"><img src="https://api.opgc.me/githubs/users/gil-log/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/gil-log" target="_blank"><img src="https://api.opgc.me/githubs/users/gil-log/tag/?theme=dracula" /></a>
   
 <!-- &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gil-log&layout=compact&theme=dracula)](https://github.com/gil-log?tab=repositories) -->
 
