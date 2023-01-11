@@ -1,4 +1,4 @@
-# <img src="https://media2.giphy.com/media/1pAee7dMLyUBuLmvcL/giphy.gif?cid=ecf05e47hd5cwyfbehyypp3maxm1onhm4kqis3fiwduyw8ze&rid=giphy.gif&ct=g" height="100px" width="100px"> &nbsp; Gillog Than The Record.
+# <img src="https://media2.giphy.com/media/1pAee7dMLyUBuLmvcL/giphy.gif?cid=ecf05e47hd5cwyfbehyypp3maxm1onhm4kqis3fiwduyw8ze&rid=giphy.gif&ct=g" height="60px" width="60px"> &nbsp; Gillog Than The Record.
 
 <div align=center>
   
