@@ -1,6 +1,6 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpsYTZuMjkzdTZtbzR5Ynh2dWdmODBudXNkbGg4ZGVjY2V3Nm4xYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" height="60px" width="60px"> &nbsp; Gillog than record
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgil-log%2Fgil-log&count_bg=%2390D958&title_bg=%231B1919&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgil-log%2Fgil-log&count_bg=%2390D958&title_bg=%231B1919&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gil-log)
 [![Stars](https://img.shields.io/github/stars/gil-log?color=yellow&label=stars&logo=github&logo_color=yellow)](https://github.com/gil-log)
 <a href="https://velog.io/@gillog"> <img src="https://img.shields.io/badge/Blog-11B48A?style=flat&logo=github&logoColor=white&link=https://velog.io/@gillog"/> </a>
 <a href="mailto:swgil007@naver.com"> <img src="https://img.shields.io/badge/Mail-d14836?style=flat&logo=naver&logoColor=white&link=swgil007@naver.com"/></a>
